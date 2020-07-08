@@ -992,7 +992,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mach-e-interiorrendering-1440x860.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1007,6 +1007,23 @@
                 "text": "",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page1.html#content4-y\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
                 "overlayOpacity": "0.3"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mach-emountainscene-1440x860.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "CONNECT AND CONTROL",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page1.html#content4-10\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mach-e-cockpit-view-1440x860.jpg",
@@ -1024,23 +1041,6 @@
                 "contentAlign": "center",
                 "text": "",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.ford.com/suvs/mach-e/2021/#co-pilot-360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mach-emountainscene-1440x860.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "CONNECT AND CONTROL",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page1.html#content4-10\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mustang-mach-e-carmuseum-1440x860.jpg",
