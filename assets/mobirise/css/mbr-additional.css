@@ -1755,6 +1755,30 @@ body {
 .cid-s444mR7tdu {
   background-image: url("../../../assets/images/mustangmach-edriveway-1440x907.jpg");
 }
+.cid-s4awxnn9xC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #efefef, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-s4awxnn9xC .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s4awxnn9xC .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-s4awxnn9xC .mbr-text,
+.cid-s4awxnn9xC .mbr-section-btn {
+  text-align: left;
+  color: #767676;
+}
+.cid-s4awxnn9xC .mbr-section-title {
+  text-align: left;
+  color: #232323;
+}
 .cid-s44cVi51zx {
   padding-top: 60px;
   padding-bottom: 60px;
